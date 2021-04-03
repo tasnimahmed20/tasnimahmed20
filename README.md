@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tasnimahmed20
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning c++ and JavaScript
-- 💞️ I’m looking to collaborate on problem solving in Code Forces
+- 💞️ I’m looking for collaborate on problem solving in Code Forces
 - 📫 How to reach me :- tasnima.ahamed.20@gmail.com
 
 <!---
